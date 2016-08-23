@@ -1,0 +1,21 @@
+div {
+
+	text-align: center;
+	padding: 10px 5px 20px 30px;
+	margin: 100px;
+	background-color: pink;
+	border-width: 10px 5px;
+	border-style: solid;
+	border-color: purple;
+}
+
+
+
+
+p {
+	 
+	padding: 1px;
+	border: 2px dashed black;
+	text-align: center;
+	background-color: white;
+}
